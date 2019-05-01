@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="11a97d81-5115-45f6-998a-cf1a3d5300c4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8015/CartService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CartService.wsdl" MetadataType="Wsdl" ID="86d6a64e-86fd-4988-94b9-ed96c752b742" SourceId="1" SourceUrl="http://localhost:8015/CartService?wsdl" />
+    <MetadataFile FileName="CartService.disco" MetadataType="Disco" ID="a913ac05-9f64-44ad-af5b-900745150c2a" SourceId="1" SourceUrl="http://localhost:8015/CartService?disco" />
+    <MetadataFile FileName="CartService.xsd" MetadataType="Schema" ID="38a81f6a-7f51-4307-8297-135816298bc7" SourceId="1" SourceUrl="http://localhost:8015/CartService?xsd=xsd0" />
+    <MetadataFile FileName="CartService1.xsd" MetadataType="Schema" ID="c91dcca1-c5aa-4569-a7b4-8f4ccd03f47e" SourceId="1" SourceUrl="http://localhost:8015/CartService?xsd=xsd2" />
+    <MetadataFile FileName="CartService2.xsd" MetadataType="Schema" ID="042e743e-00c7-48b0-b499-336c55f7f21a" SourceId="1" SourceUrl="http://localhost:8015/CartService?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

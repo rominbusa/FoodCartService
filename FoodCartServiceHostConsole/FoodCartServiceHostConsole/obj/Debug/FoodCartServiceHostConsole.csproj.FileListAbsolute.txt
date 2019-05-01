@@ -1,0 +1,11 @@
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceHostConsole.exe.config
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceHostConsole.exe
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceHostConsole.pdb
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceLibrary.dll
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceLibrary.pdb
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\bin\Debug\FoodCartServiceLibrary.dll.config
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\obj\Debug\FoodCartServiceHostConsole.csprojAssemblyReference.cache
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\obj\Debug\FoodCartServiceHostConsole.csproj.CoreCompileInputs.cache
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\obj\Debug\FoodCartServiceHostConsole.csproj.CopyComplete
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\obj\Debug\FoodCartServiceHostConsole.exe
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceHostConsole\FoodCartServiceHostConsole\obj\Debug\FoodCartServiceHostConsole.pdb

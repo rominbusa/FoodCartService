@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8015/CartService?wsdl" uri="src/conf/xml-resources/web-service-references/CartService/wsdl/localhost_8015/CartService.wsdl"/>
+    <system systemId="http://localhost:8015/CartService?xsd=xsd0" uri="src/conf/xml-resources/web-service-references/CartService/wsdl/localhost_8015/CartService.xsd_xsd0.xsd"/>
+    <system systemId="http://localhost:8015/CartService?xsd=xsd1" uri="src/conf/xml-resources/web-service-references/CartService/wsdl/localhost_8015/CartService.xsd_xsd1.xsd"/>
+    <system systemId="http://localhost:8015/CartService?xsd=xsd2" uri="src/conf/xml-resources/web-service-references/CartService/wsdl/localhost_8015/CartService.xsd_xsd2.xsd"/>
+</catalog>

@@ -1,0 +1,7 @@
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\bin\Debug\FoodCartServiceLibrary.dll.config
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\bin\Debug\FoodCartServiceLibrary.dll
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\bin\Debug\FoodCartServiceLibrary.pdb
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\obj\Debug\FoodCartServiceLibrary.csprojAssemblyReference.cache
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\obj\Debug\FoodCartServiceLibrary.csproj.CoreCompileInputs.cache
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\obj\Debug\FoodCartServiceLibrary.dll
+D:\SEM6\SOC\SOC_PROJECT\FoodCartServiceLibrary\FoodCartServiceLibrary\obj\Debug\FoodCartServiceLibrary.pdb
